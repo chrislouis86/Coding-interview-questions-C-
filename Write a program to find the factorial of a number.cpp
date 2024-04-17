@@ -2,7 +2,7 @@
 using namespace std;
 
 
-
+// 2 Write a program to find the factorial of a number. 
 int main() {
     int n;
 
